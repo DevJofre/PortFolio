@@ -2,8 +2,8 @@ import { PROJECTS } from "."
 
 const Projects = () => {
     return(
-        <div className="pb-4">
-            <h2 className="my-2 text-center text-4xl"> Projetos </h2>
+        <div className="pb-4 ">
+            <h2 className="my-20 text-center text-4xl"> Projetos </h2>
             <div>
                 {PROJECTS.map((project, index) => (
                     <div key={index} className="mb-8 flex flex-wrap lg:justify-center">

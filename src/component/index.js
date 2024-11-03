@@ -20,18 +20,18 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
-  },
-  {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "2024 - Present",
+    role: "Desenvolvedor Full Stack ",
+    company: "  Workana",
+    description: `Atuou no desenvolvimento e manutenção de aplicações web para a plataforma Warkana, utilizando HTML, CSS, JavaScript, React.js e Python. Implementou interfaces dinâmicas e intuitivas, integrando o frontend com APIs e bancos de dados como MySQL e MongoDB, além de realizar integrações em projetos WordPress. Colaborou ativamente com stakeholders para definir requisitos e prazos, garantindo a entrega de soluções funcionais e de alta qualidade dentro dos cronogramas estabelecidos.`,
+    technologies: [
+      "Javascript",
+      "React.js",
+      "Python",
+      "WordPress",
+      "MySQL",
+      "mongoDB",
+    ],
   },
 ];
 
