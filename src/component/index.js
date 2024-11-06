@@ -37,18 +37,20 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Teste",
+    title: "Ecommerce",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "Desenvolvi a loja online Inova utilizando HTML, CSS e JavaScript, criando uma interface intuitiva e moderna para uma experiência de compra agradável. A loja oferece categorias diversificadas, como moda, cuidados pessoais, eletrônicos e decoração, com foco em usabilidade e responsividade para acesso em diferentes dispositivos. Esse projeto reflete minhas habilidades em frontend e minha capacidade de criar soluções funcionais para o comércio eletrônico.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://ecommerce-inova-bm4p.vercel.app/",
   },
   {
-    title: "Task Management App",
+    title: "Production Deployment",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A Inova é uma loja online desenvolvida em JavaScript e React, trazendo uma interface moderna e responsiva. A organização das categorias e o design são voltados para melhorar a experiência do usuário, facilitando o acesso rápido aos produtos. ",
+    technologies: ["React", "JavaScript"],
+    link: "https://inova-react.vercel.app/",
   },
 ];
 

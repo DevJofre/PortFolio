@@ -1,4 +1,5 @@
 import profilePic from "../assets/Foto2.png"
+import curriculo from "../public/resume.pdf"
 import { HERO_CONTENT } from "." 
 import { motion } from "framer-motion"
 
@@ -44,7 +45,7 @@ const Hero = () => {
                         <p className="my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter">
                             {HERO_CONTENT}
                         </p>
-                        <motion.a href="/resume.pdf" target="_blank" rel="noopener noreferrer" download className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10">Download do Currículo</motion.a>
+                        <motion.a href={curriculo} target="_blank" rel="noopener noreferrer" download className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10">Download do Currículo</motion.a>
                     </motion.div>
                 </div>
             </div>
