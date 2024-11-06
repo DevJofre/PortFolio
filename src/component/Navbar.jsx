@@ -1,4 +1,4 @@
-import logo from "../assets/raviKumarLogo.webp"
+import logo from "../assets/logo3.png"
 import { FaLinkedin } from "react-icons/fa";
 import { FaGit } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
